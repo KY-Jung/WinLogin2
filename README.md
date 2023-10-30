@@ -6,9 +6,10 @@
 ## 사용 방법
 
 1. 설치 파일 다운로드
+
    다운로드 링크 : [https://www.gainsys.kr/download/WinLogin-OTP.2.0.1.exe]
 
-2. 다운로드한 프로그램 설치
+3. 다운로드한 프로그램 설치
    ![1 install](https://github.com/KY-Jung/WinLogin2/assets/39116699/d285ccd2-6b97-4dc3-bfd8-5b1a2b508251)
    
    
